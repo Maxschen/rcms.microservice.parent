@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rcms.microservice.admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rcms.microservice.admin/rcms.microservice.admin.starter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rcms.microservice.apps" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rcms.microservice.apps/rcms.microservice.apps.starter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rcms.microservice.auth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rcms.microservice.auth/rcms.microservice.auth.apimpl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rcms.microservice.auth/rcms.microservice.auth.pubapi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rcms.microservice.auth/rcms.microservice.auth.starter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rcms.microservice.base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rcms.microservice.consul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rcms.microservice.i18n" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rcms.microservice.i18n/rcms.microservice.i18n.apimpl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rcms.microservice.i18n/rcms.microservice.i18n.pubapi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rcms.microservice.i18n/rcms.microservice.i18n.starter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rcms.microservice.iam" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rcms.microservice.iam/rcms.microservice.iam.apimpl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rcms.microservice.iam/rcms.microservice.iam.pubapi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rcms.microservice.iam/rcms.microservice.iam.starter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rcms.microservice.logs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rcms.microservice.logs/rcms.microservice.logs.apimpl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rcms.microservice.logs/rcms.microservice.logs.pubapi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rcms.microservice.logs/rcms.microservice.logs.starter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rcms.microservice.mail" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rcms.microservice.mail/rcms.microservice.mail.apimpl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rcms.microservice.mail/rcms.microservice.mail.pubapi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rcms.microservice.mail/rcms.microservice.mail.starter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rcms.microservice.qutz" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rcms.microservice.qutz/rcms.microservice.qutz.apimpl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rcms.microservice.qutz/rcms.microservice.qutz.pubapi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rcms.microservice.qutz/rcms.microservice.qutz.starter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rcms.microservice.site" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rcms.microservice.site/rcms.microservice.site.apimpl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rcms.microservice.site/rcms.microservice.site.pubapi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rcms.microservice.site/rcms.microservice.site.starter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rcms.microservice.user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rcms.microservice.user/rcms.microservice.user.apimpl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rcms.microservice.user/rcms.microservice.user.pubapi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rcms.microservice.user/rcms.microservice.user.starter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rcms.microservice.zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rcms.microservice.zuul/rcms.microservice.zuul.apimpl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rcms.microservice.zuul/rcms.microservice.zuul.pubapi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rcms.microservice.zuul/rcms.microservice.zuul.starter" charset="UTF-8" />
+  </component>
+</project>

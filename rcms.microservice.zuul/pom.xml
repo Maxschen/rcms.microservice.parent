@@ -11,6 +11,8 @@
 
     <artifactId>rcms.microservice.zuul</artifactId>
     <packaging>pom</packaging>
+
+
     <modules>
         <module>rcms.microservice.zuul.starter</module>
         <module>rcms.microservice.zuul.apimpl</module>
