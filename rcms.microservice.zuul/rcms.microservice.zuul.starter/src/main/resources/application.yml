@@ -1,0 +1,30 @@
+spring:
+  application:
+    name: rcms-zuul-center
+  cloud:
+    consul:
+      discovery:
+        hostname: localhost
+        instance-id: ${spring.application.name}:${server.port}
+        prefer-ip-address: true
+        health-check-interval: 10s
+        service-name: openapi
+        enabled: true
+        health-check-path: ${server.servlet.context-path}/actuator/health
+      host: localhost
+      port: 8500
+
+server:
+  port: 9090 #服务注册中心端口号
+  servlet:
+    context-path: /openapi
+
+
+zuul:
+  routes:
+    rcms-user-server-api:
+      path: /userservices/**
+      serviceId: rcms-user-services
+    rcms-i18n-server-api:
+      path: /i18nservices/**
+      serviceId: rcms-i18n-services

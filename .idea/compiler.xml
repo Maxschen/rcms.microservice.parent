@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="rcms.microservice.admin.starter" />
+        <module name="rcms.microservice.apps.starter" />
+        <module name="rcms.microservice.auth.apimpl" />
+        <module name="rcms.microservice.auth.pubapi" />
+        <module name="rcms.microservice.auth.starter" />
+        <module name="rcms.microservice.i18n.apimpl" />
+        <module name="rcms.microservice.i18n.pubapi" />
+        <module name="rcms.microservice.i18n.starter" />
+        <module name="rcms.microservice.iam.apimpl" />
+        <module name="rcms.microservice.iam.pubapi" />
+        <module name="rcms.microservice.iam.starter" />
+        <module name="rcms.microservice.logs.apimpl" />
+        <module name="rcms.microservice.logs.pubapi" />
+        <module name="rcms.microservice.logs.starter" />
+        <module name="rcms.microservice.mail.apimpl" />
+        <module name="rcms.microservice.mail.pubapi" />
+        <module name="rcms.microservice.mail.starter" />
+        <module name="rcms.microservice.qutz.apimpl" />
+        <module name="rcms.microservice.qutz.pubapi" />
+        <module name="rcms.microservice.qutz.starter" />
+        <module name="rcms.microservice.site.apimpl" />
+        <module name="rcms.microservice.site.pubapi" />
+        <module name="rcms.microservice.site.starter" />
+        <module name="rcms.microservice.user.apimpl" />
+        <module name="rcms.microservice.user.pubapi" />
+        <module name="rcms.microservice.user.starter" />
+        <module name="rcms.microservice.zuul.apimpl" />
+        <module name="rcms.microservice.zuul.pubapi" />
+        <module name="rcms.microservice.zuul.starter" />
+        <module name="rcms.service.base" />
+        <module name="rcms.service.exception" />
+        <module name="rcms.service.utils" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="rcms.microservice.auth.apiimpl" target="1.5" />
+      <module name="rcms.microservice.auth.openapi" target="1.5" />
+      <module name="rcms.microservice.zuul.ipubapi" target="1.5" />
+      <module name="rcms.microservice.zuul.istarter" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

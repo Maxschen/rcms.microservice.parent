@@ -1,0 +1,29 @@
+spring:
+  application:
+    name: user #服务名称
+  boot:
+    admin:
+      client:
+        url: http://localhost:8080
+
+  cloud:
+    consul:
+      host: localhost
+      port: 8500
+      discovery:
+        register: true
+        hostname: localhost
+        service-name: user #服务根路径
+        health-check-interval: 10s
+        health-check-path: ${server.servlet.context-path}/actuator/health
+
+server:
+  port: 80008 #服务端口号
+  servlet:
+    context-path: /services
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
