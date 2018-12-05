@@ -12,8 +12,8 @@
     <artifactId>rcms.microservice.user</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>rcms.microservice.user.apiimpl</module>
-        <module>rcms.microservice.user.openapi</module>
+        <module>rcms.microservice.user.apimpl</module>
+        <module>rcms.microservice.user.pubapi</module>
         <module>rcms.microservice.user.starter</module>
     </modules>
 

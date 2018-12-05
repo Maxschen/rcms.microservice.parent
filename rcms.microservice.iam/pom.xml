@@ -12,8 +12,8 @@
     <artifactId>rcms.microservice.iam</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>rcms.microservice.iam.apiimpl</module>
-        <module>rcms.microservice.iam.openapi</module>
+        <module>rcms.microservice.iam.apimpl</module>
+        <module>rcms.microservice.iam.pubapi</module>
         <module>rcms.microservice.iam.starter</module>
     </modules>
 

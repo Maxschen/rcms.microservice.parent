@@ -13,8 +13,8 @@
     <packaging>pom</packaging>
     <modules>
         <module>rcms.microservice.i18n.starter</module>
-        <module>rcms.microservice.i18n.openapi</module>
-        <module>rcms.microservice.i18n.apiimpl</module>
+        <module>rcms.microservice.i18n.pubapi</module>
+        <module>rcms.microservice.i18n.apimpl</module>
     </modules>
 
 </project>

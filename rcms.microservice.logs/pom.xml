@@ -12,8 +12,8 @@
     <artifactId>rcms.microservice.logs</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>rcms.microservice.logs.apiimpl</module>
-        <module>rcms.microservice.logs.openapi</module>
+        <module>rcms.microservice.logs.apimpl</module>
+        <module>rcms.microservice.logs.pubapi</module>
         <module>rcms.microservice.logs.starter</module>
     </modules>
 

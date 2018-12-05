@@ -12,8 +12,8 @@
     <artifactId>rcms.microservice.mail</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>rcms.microservice.mail.apiimpl</module>
-        <module>rcms.microservice.mail.openapi</module>
+        <module>rcms.microservice.mail.apimpl</module>
+        <module>rcms.microservice.mail.pubapi</module>
         <module>rcms.microservice.mail.starter</module>
     </modules>
 

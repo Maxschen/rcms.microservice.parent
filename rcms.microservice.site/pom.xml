@@ -12,8 +12,8 @@
     <artifactId>rcms.microservice.sitemap</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>rcms.microservice.site.apiimpl</module>
-        <module>rcms.microservice.site.openapi</module>
+        <module>rcms.microservice.site.apimpl</module>
+        <module>rcms.microservice.site.pubapi</module>
         <module>rcms.microservice.site.starter</module>
     </modules>
 

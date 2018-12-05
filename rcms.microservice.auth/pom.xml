@@ -12,8 +12,8 @@
     <artifactId>rcms.microservice.auth</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>rcms.microservice.auth.apiimpl</module>
-        <module>rcms.microservice.auth.openapi</module>
+        <module>rcms.microservice.auth.apimpl</module>
+        <module>rcms.microservice.auth.pubapi</module>
         <module>rcms.microservice.auth.starter</module>
     </modules>
 

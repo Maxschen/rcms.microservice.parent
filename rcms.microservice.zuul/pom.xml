@@ -13,8 +13,8 @@
     <packaging>pom</packaging>
     <modules>
         <module>rcms.microservice.zuul.starter</module>
-        <module>rcms.microservice.zuul.apiimpl</module>
-        <module>rcms.microservice.zuul.openapi</module>
+        <module>rcms.microservice.zuul.apimpl</module>
+        <module>rcms.microservice.zuul.pubapi</module>
     </modules>
 
 </project>

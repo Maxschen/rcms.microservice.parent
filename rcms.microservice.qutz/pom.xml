@@ -12,8 +12,8 @@
     <artifactId>rcms.microservice.qutz</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>rcms.microservice.qutz.apiimpl</module>
-        <module>rcms.microservice.qutz.openapi</module>
+        <module>rcms.microservice.qutz.apimpl</module>
+        <module>rcms.microservice.qutz.pubapi</module>
         <module>rcms.microservice.qutz.starter</module>
     </modules>
 
