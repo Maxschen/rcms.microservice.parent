@@ -11,6 +11,9 @@
     <file url="file://$PROJECT_DIR$/rcms.microservice.auth/rcms.microservice.auth.pubapi" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/rcms.microservice.auth/rcms.microservice.auth.starter" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/rcms.microservice.base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rcms.microservice.base/rcms.service.base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rcms.microservice.base/rcms.service.exception" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rcms.microservice.base/rcms.service.utils" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/rcms.microservice.consul" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/rcms.microservice.i18n" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/rcms.microservice.i18n/rcms.microservice.i18n.apimpl" charset="UTF-8" />
