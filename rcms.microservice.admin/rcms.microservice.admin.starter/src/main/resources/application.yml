@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: admin #服务名称
+server:
+  port: 8080 #服务端口号
