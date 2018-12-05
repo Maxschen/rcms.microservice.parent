@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.stone.it.rcms</groupId>
+    <artifactId>rcms.microservice.parent</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>rcms.microservice.zuul</module>
+        <module>rcms.microservice.user</module>
+        <module>rcms.microservice.site</module>
+        <module>rcms.microservice.qutz</module>
+        <module>rcms.microservice.mail</module>
+        <module>rcms.microservice.logs</module>
+        <module>rcms.microservice.iam</module>
+        <module>rcms.microservice.i18n</module>
+        <module>rcms.microservice.consul</module>
+        <module>rcms.microservice.auth</module>
+        <module>rcms.microservice.admin</module>
+        <module>rcms.microservice.apps</module>
+        <module>rcms.microservice.base</module>
+    </modules>
+    <packaging>pom</packaging>
+
+</project>
