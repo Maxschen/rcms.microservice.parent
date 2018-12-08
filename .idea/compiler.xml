@@ -14,9 +14,7 @@
         <module name="rcms.microservice.i18n.apimpl" />
         <module name="rcms.microservice.i18n.pubapi" />
         <module name="rcms.microservice.i18n.starter" />
-        <module name="rcms.microservice.iam.apiimpl" />
         <module name="rcms.microservice.iam.apimpl" />
-        <module name="rcms.microservice.iam.openapi" />
         <module name="rcms.microservice.iam.pubapi" />
         <module name="rcms.microservice.iam.starter" />
         <module name="rcms.microservice.logs.apimpl" />

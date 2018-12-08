@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>rcms.microservice.i18n.apiimpl</artifactId>
+    <artifactId>rcms.microservice.i18n.apimpl</artifactId>
 
 
 </project>

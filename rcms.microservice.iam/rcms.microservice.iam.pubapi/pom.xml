@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>rcms.microservice.iam.openapi</artifactId>
+    <artifactId>rcms.microservice.iam.pubapi</artifactId>
 
 
 </project>
